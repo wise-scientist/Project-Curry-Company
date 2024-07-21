@@ -1,5 +1,5 @@
 #libraries
-import sklearn
+#import sklearn
 import pandas as pd
 from haversine import haversine
 import plotly.express as px
