@@ -1,5 +1,5 @@
-pip install scikit-learn
-pip install haversine
+$ pip install scikit-learn
+$ pip install haversine
 
 #libraries
 import sklearn
