@@ -1,6 +1,3 @@
-$ pip install scikit-learn
-$ pip install haversine
-
 #libraries
 import sklearn
 import pandas as pd
