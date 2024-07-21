@@ -1,7 +1,8 @@
 #libraries
 #import sklearn
 import pandas as pd
-from haversine import haversine
+#from haversine 
+import haversine
 import plotly.express as px
 from datetime import datetime
 #import plotly.graph_objrcts as go
